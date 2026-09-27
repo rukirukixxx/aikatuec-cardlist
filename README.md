@@ -1,1 +1,3 @@
-# aikatu-encore-card
+aikatsu-card-data/
+└── data/
+    └── cards.json
